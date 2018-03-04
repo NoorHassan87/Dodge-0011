@@ -1,0 +1,111 @@
+body {
+  padding: 0px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.bgImg {
+  background-image: url('https://www.dodge.com/content/dam/fca-brands/na/dodge/en_us/2017/charger/performance/desktop/2017-dodge-charger-performance-hero.jpg.image.1440.jpg');
+  height: 600px;
+  width: -moz-available;
+}
+
+/*Make the jumbotron transperancy*/
+.jumbotron {
+  background: rgba(100, 50, 50, 0.3);
+}
+
+.fontColor {
+  color: cornsilk;
+  font-family: Cambria;
+}
+
+.floatLeft {
+  float: left;
+}
+
+.bodyBg {
+  background-color: #b2bec3;
+}
+
+.imgHeight {
+  height: 200px;
+}
+
+.textLocation {
+  text-align: center;
+  margin-bottom: -4px;
+}
+
+.bgFooter {
+  background-color: black;
+  height: 70px;
+}
+
+/*Set the background image of container of dodgeGarage page*/
+.bgChargerImg {
+  background-image: url('https://www.dodge.com/content/dam/fca-brands/na/dodge/en_us/2018/charger/gallery/exterior/2018-charger-gallery-exterior7.jpg.image.1440.jpg');
+  height: 600px;
+  width: -moz-available;
+}
+
+.chargerFont {
+  font-family: "Helvetica";
+  color: chocolate;
+}
+
+/*Transperancy of the jumbotron*/
+.jumbotronTransperancy {
+  background: rgba(100, 50, 50, 0.0);
+}
+
+/*The png size of dodgeGarage*/
+.chargerSize {
+  height: 300px;
+  width: 70%;
+}
+
+.boldHeader {
+  font-weight: bold;
+}
+
+.bodyBgColor {
+  background-color: aliceblue;
+}
+
+.headerMargin {
+  margin-top: -13px;
+}
+
+.colHeight {
+  height: 600px;
+  background-image: url('http://media.caranddriver.com/images/13q3/528957/2014-dodge-journey-interior-photo-537059-s-1280x782.jpg');
+}
+
+.rowHeight {
+  height: 90px;
+  background-color: lightgray;
+}
+
+/*The body background Color of buy page*/
+.buyBgImg {
+  background-image: url('http://cdn.wonderfulengineering.com/wp-content/uploads/2014/03/ford-wallpaper-1.jpg');
+}
+
+/*Set the margin of the Table in buy page*/
+.tableMargin {
+  margin-top: -90px;
+}
+
+/*THe height and background color of  footer*/
+.footerHeight {
+  height: 90px;
+  background-color: darkgray;
+}
+.imgSize{
+  width: 100%;
+  height: 550px;
+}
