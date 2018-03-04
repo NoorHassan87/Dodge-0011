@@ -23,7 +23,7 @@ var Dodge = mongoose.model('Dodge', {
 )
 
 /* GET home page. */
-router.get('/car', function (req, res) {
+router.get('/', function (req, res) {
     res.render('index');
 });
 /* GET buy page. */
